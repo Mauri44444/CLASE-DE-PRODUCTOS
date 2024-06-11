@@ -1,0 +1,15 @@
+C:\Users\Graciela\Desktop\PRACTICA\bin\Debug\net7.0\PRACTICA.exe
+C:\Users\Graciela\Desktop\PRACTICA\bin\Debug\net7.0\PRACTICA.deps.json
+C:\Users\Graciela\Desktop\PRACTICA\bin\Debug\net7.0\PRACTICA.runtimeconfig.json
+C:\Users\Graciela\Desktop\PRACTICA\bin\Debug\net7.0\PRACTICA.dll
+C:\Users\Graciela\Desktop\PRACTICA\bin\Debug\net7.0\PRACTICA.pdb
+C:\Users\Graciela\Desktop\PRACTICA\obj\Debug\net7.0\PRACTICA.csproj.AssemblyReference.cache
+C:\Users\Graciela\Desktop\PRACTICA\obj\Debug\net7.0\PRACTICA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Graciela\Desktop\PRACTICA\obj\Debug\net7.0\PRACTICA.AssemblyInfoInputs.cache
+C:\Users\Graciela\Desktop\PRACTICA\obj\Debug\net7.0\PRACTICA.AssemblyInfo.cs
+C:\Users\Graciela\Desktop\PRACTICA\obj\Debug\net7.0\PRACTICA.csproj.CoreCompileInputs.cache
+C:\Users\Graciela\Desktop\PRACTICA\obj\Debug\net7.0\PRACTICA.dll
+C:\Users\Graciela\Desktop\PRACTICA\obj\Debug\net7.0\refint\PRACTICA.dll
+C:\Users\Graciela\Desktop\PRACTICA\obj\Debug\net7.0\PRACTICA.pdb
+C:\Users\Graciela\Desktop\PRACTICA\obj\Debug\net7.0\PRACTICA.genruntimeconfig.cache
+C:\Users\Graciela\Desktop\PRACTICA\obj\Debug\net7.0\ref\PRACTICA.dll
