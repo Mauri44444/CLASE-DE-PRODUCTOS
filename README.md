@@ -1,1 +1,1 @@
-# CLASE-DE-PRODUCTOS
+Ejercicio de productos de Algoritmos II
